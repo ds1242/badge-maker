@@ -17,5 +17,11 @@ namespace CatWorx.BadgeMaker
         public string GetName() {
             return FirstName + " " + LastName;
         }
+        public int GetID() {
+            return Id;
+        }
+        public string GetPhotoURL() {
+            return PhotoUrl;
+        }
     }
 }
