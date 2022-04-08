@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "0opjMbiHP7N0NB25Dp38IY/H6Y3ogpGyzxhfYkpbFS0XBt+PPgD7uFOEUkIhMXoqWZ7CkAkM1ZSntjNk3ULmhw==",
+  "dgSpecHash": "N0K2iq1nJXxKL0kWKsA4w4FY4+809iKjb+mLILugc0v0A1e7TsdPU9L/BVFa/nOuh8VV1jwS9r4sluknGGjH5w==",
   "success": true,
   "projectFilePath": "C:\\Users\\dwsco\\Desktop\\UUBC\\badge-maker\\CatWorkx.BadgeMaker\\CatWorkx.BadgeMaker.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\dwsco\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\dwsco\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -13,3 +13,9 @@ C:\Users\dwsco\Desktop\UUBC\badge-maker\CatWorkx.BadgeMaker\obj\Debug\net6.0\ref
 C:\Users\dwsco\Desktop\UUBC\badge-maker\CatWorkx.BadgeMaker\obj\Debug\net6.0\CatWorkx.BadgeMaker.pdb
 C:\Users\dwsco\Desktop\UUBC\badge-maker\CatWorkx.BadgeMaker\obj\Debug\net6.0\CatWorkx.BadgeMaker.genruntimeconfig.cache
 C:\Users\dwsco\Desktop\UUBC\badge-maker\CatWorkx.BadgeMaker\obj\Debug\net6.0\ref\CatWorkx.BadgeMaker.dll
+C:\Users\dwsco\Desktop\UUBC\badge-maker\CatWorkx.BadgeMaker\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dwsco\Desktop\UUBC\badge-maker\CatWorkx.BadgeMaker\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\dwsco\Desktop\UUBC\badge-maker\CatWorkx.BadgeMaker\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dwsco\Desktop\UUBC\badge-maker\CatWorkx.BadgeMaker\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\dwsco\Desktop\UUBC\badge-maker\CatWorkx.BadgeMaker\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\dwsco\Desktop\UUBC\badge-maker\CatWorkx.BadgeMaker\obj\Debug\net6.0\CatWorkx.BadgeMaker.csproj.CopyComplete
