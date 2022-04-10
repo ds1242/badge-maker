@@ -1,5 +1,7 @@
 using System;
 using System.Collections.Generic;
+using System.Net;
+
 
 namespace CatWorx.BadgeMaker {
     class PeopleFetcher
@@ -28,6 +30,15 @@ namespace CatWorx.BadgeMaker {
                 employees.Add(currentEmployee);
             }
             // return the list of employees
+            return employees;
+        }
+        public static List<Employee> GetFromApi() {
+            List<Employee> employees = new List<Employee>();
+            using (WebClient client = new WebClient())
+            {
+                string response = client.DownloadString("https://randomuser.me/api/?results=10&nat=us&inc=name,id,picture");
+                Console.WriteLine(response);
+            }
             return employees;
         }
     }
